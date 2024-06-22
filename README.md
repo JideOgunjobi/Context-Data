@@ -1,2 +1,7 @@
-# Context-Data
-Data Processing &amp; ETL infrastructure for Generative AI applications
+# Context Data
+
+Context Data is an [enterprise data infrastructure](https://contextdata.ai/) built to accelerate the development of data pipelines for Generative AI applications. The platform automates the process of setting up internal data processing and transformation flows using an easy-to-use connectivity framework where developers and enterprises can quickly connect to all of their internal data sources, embedding models and vector database targets without having to set up expensive infrastructure or engineers. The platform also allows developers to schedule recurring data flows for refreshed and up-to-date data. 
+
+For developers and companies building Generative AI applications, one of their biggest challenges is building and maintaining scalable data infrastructure for creating contextual data which will power their AI applications. Think about the efficient movement of data from their various sources (MySQL, Salesforce, Amazon S3) as well as transformations (joins, aggregations etc.) to the final vector databases. Context Data allows them to quickly achieve this without having to write any code. 
+
+Imagine creating a scheduled process that extracts financial and legal information from your pdf documents and writes it to your Pinecone vector database within 10 minutes. Context Data is able to create this end-to-end process in as little as 10 minutes without having to create expensive infrastructure and writing hours of complicated code.
